@@ -107,4 +107,12 @@
     <string name="pref_value_wifi_and_mobile">Sincronización con WiFi e con datos móbiles</string>
     <string name="pref_value_wifi_only">Sincronizar só con WiFi</string>
     <string name="pref_value_theme_light">Claro</string>
-    </resources>
+    <string name="unassign_user">Desasignar %1$s</string>
+    <string name="do_you_want_to_unassign_this_user">Quere desasignar %1$s de %2$s?</string>
+    <string name="simple_unassign">Desasignar</string>
+    <string name="unassigned_user">Desasignado %1$s</string>
+    <string name="simple_undo">Desfacer</string>
+    <string name="no_activities">Non hai actividades nesta tarxeta. Para cargar e amosar actividades necesita estar conectado á Internet.</string>
+    <string name="rename_column">Renomear a columna</string>
+    <string name="share_board">Taboleiro compartido</string>
+</resources>
